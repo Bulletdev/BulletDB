@@ -1,7 +1,7 @@
 
 <div>
 <p align="center"> 
-  <img alt="screenshot" src="img.png" width="1920" height="400">
+  <img alt="screenshot" src="public/img.png" width="900" height="500">
 </p>
 
 
