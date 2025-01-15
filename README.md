@@ -1,3 +1,10 @@
+
+<div>
+<p align="center"> 
+  <img alt="screenshot" src="img.png" width="1920" height="400">
+</p>
+
+
 # BulletDB
 
 BulletDB é um sistema de banco de dados híbrido que combina as melhores características de bancos relacionais e não-relacionais, oferecendo alto desempenho, flexibilidade e consistência.
