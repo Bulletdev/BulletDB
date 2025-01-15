@@ -22,7 +22,7 @@ BulletDB é um sistema de banco de dados híbrido que combina as melhores caract
 ## Instalação
 
 ```bash
-git clone https://github.com/your-username/bulletdb.git
+git clone https://github.com/bulletdev/bulletdb.git
 cd bulletdb
 mvn clean install
 ```
